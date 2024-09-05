@@ -1,5 +1,5 @@
 {
-	"name": "python_template",
+	"name": "bachelor_thesis",
 	"build": {
 		"context": "..",
 		"dockerfile": "../dockerfile"
